@@ -1,6 +1,10 @@
 # iris project
 
 
+This short report demonstrate a systematic process for working through multi-class classification Predictive Modeling problems that delivers above average results in Python.
+
+
+
 
 
 
